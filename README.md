@@ -2,7 +2,7 @@
 
 This is an updated version of the basic recipe site from the final project of the HTML Foundations unit of the Odin Project's Foundations path.  
 
-Topics explored/demonstrated include:
+Topics explored/demonstrated in this unit include:
 
 Basic CSS syntax
 
